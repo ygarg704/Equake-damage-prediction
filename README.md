@@ -1,0 +1,1 @@
+# equake-damage-prediction
