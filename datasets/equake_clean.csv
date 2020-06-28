@@ -1,0 +1,250 @@
+,name,equake_near,material type,age of bridge,bridge type,magnitude,d to epicenter in miles,damaged,I,II,III
+0,"San Francisco-Oakland Bay Bridge, 1936 ","1989, Loma Prieta",I,53,III,6.9,59.9,1,0,0,1
+1,San Francisco-Oakland Bay Bridge,Northern California,I,57,III,4.7,50.0,0,1,0,0
+2,San Francisco-Oakland Bay Bridge,Bay Area,I,67,III,4.0,6.9,0,1,0,0
+3,San Francisco-Oakland Bay Bridge,1km N of Piedmont,I,79,III,4.0,6.3,0,1,0,0
+4,San Francisco-Oakland Bay Bridge,2km SE of Berkeley,I,82,III,4.4,5.4,0,1,0,0
+5,San Francisco-Oakland Bay Bridge,3km SE of Piedmont,I,80,III,3.5,8.1,0,1,0,0
+6,San Francisco-Oakland Bay Bridge,Bay Area,I,75,III,3.6,5.7,0,1,0,0
+7,San Francisco-Oakland Bay Bridge,Bay Area,I,75,III,3.8,5.6,0,1,0,0
+8,San Francisco-Oakland Bay Bridge,Bay Area,I,71,III,4.2,13.8,0,1,0,0
+9,San Francisco-Oakland Bay Bridge,Bay Area,I,50,III,4.1,8.8,0,1,0,0
+10,San Francisco-Oakland Bay Bridge,Bay Area,I,48,III,4.3,13.3,0,1,0,0
+11,San Francisco-Oakland Bay Bridge,Bay Area,I,44,III,5.8,29.0,0,1,0,0
+12,San Francisco-Oakland Bay Bridge,Offshore Northern California,I,21,III,5.7,32.0,0,1,0,0
+13,"Interstate 5 (Golden State Freeway), Gavin Canyon, 1947","1994, Northridge",II,15,I,6.7,11.1,1,0,0,1
+14,"Interstate 5 (Golden State Freeway), Gavin Canyon",5km NNW of Chatsworth,II,60,I,4.7,5.8,0,1,0,0
+15,"Interstate 5 (Golden State Freeway), Gavin Canyon",3km E of Pacoima,II,54,I,4.3,10.4,0,1,0,0
+16,"Interstate 5 (Golden State Freeway), Gavin Canyon",11km SW of Valencia,II,50,I,4.9,3.2,0,1,0,0
+17,"Interstate 5 (Golden State Freeway), Gavin Canyon",12km ESE of Piru,II,50,I,5.1,20.2,0,1,0,0
+18,"Interstate 5 (Golden State Freeway), Gavin Canyon",11km SW of Valencia,II,48,I,5.0,5.5,0,1,0,0
+19,"Interstate 5 (Golden State Freeway), Gavin Canyon",6km NNE of Chatsworth,II,47,I,5.1,5.4,0,1,0,0
+20,"Interstate 5 (Golden State Freeway), Gavin Canyon",10km SSW of Valencia,II,47,I,5.1,3.7,0,1,0,0
+21,"Interstate 5 (Golden State Freeway), Gavin Canyon",3km NNE of Granada Hills,II,24,I,4.2,6.1,0,1,0,0
+22,"Interstate 5 (Golden State Freeway), Gavin Canyon",1km S of San Fernando,II,17,I,3.8,9.5,0,1,0,0
+23,"Interstate 10 (over La Cienega Boulevard), 1957","1994, Northridge",II,37,I,6.7,15.2,1,0,0,1
+24,Interstate 10 (over La Cienega Boulevard),2km ESE of Lennox,II,62,I,4.0,7.6,0,1,0,0
+25,Interstate 10 (over La Cienega Boulevard),3km WNW of Panorama,II,47,I,5.2,14.5,0,1,0,0
+26,Interstate 10 (over La Cienega Boulevard),4km WSW of Northridge,II,47,I,4.6,17.3,0,1,0,0
+27,Interstate 10 (over La Cienega Boulevard),1km NNW of Reseda,II,47,I,6.7,15.2,0,1,0,0
+28,Interstate 10 (over La Cienega Boulevard),1km WSW of East LA,II,42,I,4.8,11.5,0,1,0,0
+29,Interstate 10 (over La Cienega Boulevard),2km SSW of Rosemead,II,40,I,5.9,17.2,0,1,0,0
+30,Interstate 10 (over La Cienega Boulevard),4km SW of Lake View,II,24,I,4.6,14.3,0,1,0,0
+31,Interstate 10 (over La Cienega Boulevard),1km S of San Fernando,II,17,I,3.8,16.7,0,1,0,0
+32,Interstate 10 (over La Cienega Boulevard),1km ENE of Lennox,II,16,I,3.5,7.0,0,1,0,0
+33,"Interstate 405 (over Jefferson Boulevard), 1964","1994, Northridge",II,30,I,6.7,17.5,1,0,1,0
+34,Interstate 405 (over Jefferson Boulevard),5km NW of Westwood,II,53,I,3.6,8.0,0,1,0,0
+35,Interstate 405 (over Jefferson Boulevard),2km NE of Pico Rivera,II,46,I,4.4,18.1,0,1,0,0
+36,Interstate 405 (over Jefferson Boulevard),3km WNW of Panorama,II,30,I,5.2,17.4,0,1,0,0
+37,Interstate 405 (over Jefferson Boulevard),1km NNW of Reseda,II,30,I,6.7,17.5,0,1,0,0
+38,Interstate 405 (over Jefferson Boulevard),5km ESE of Gardena,II,26,I,3.6,11.2,0,1,0,0
+39,Interstate 405 (over Jefferson Boulevard),1km SSE of Pasadena,II,24,I,5.0,19.0,0,1,0,0
+40,Interstate 405 (over Jefferson Boulevard),3km ESE of Monterey,II,23,I,4.6,18.1,0,1,0,0
+41,Interstate 405 (over Jefferson Boulevard),4km SW of Lake View,II,7,I,4.6,17.6,0,1,0,0
+42,Interstate 405 (over Jefferson Boulevard),3km ESE of View Park,II,2,I,3.5,4.7,0,1,0,0
+43,"Interstate 5, Antelope Valley Freeway, 1947","1994, Northridge",II,15,I,6.7,8.5,1,0,0,1
+44,"Interstate 5, Antelope Valley Freeway",2km NW of Brea,II,50,I,5.1,43.8,0,1,0,0
+45,"Interstate 5, Antelope Valley Freeway",12km ESE of Piru,II,33,I,5.1,17.1,0,1,0,0
+46,"Interstate 5, Antelope Valley Freeway",6km NNE of Chatsworth,II,30,I,5.1,4.9,0,1,0,0
+47,"Interstate 5, Antelope Valley Freeway",6km NNE of Pacoima,II,7,I,4.0,5.6,0,1,0,0
+48,"State Route 134 (Ventura Freeway), US 101, 1971","1994, Northridge",II,23,I,6.7,10.1,1,0,1,0
+49,"State Route 134 (Ventura Freeway), US 101",4km N of La Verne,II,47,I,4.4,34.5,0,1,0,0
+50,"State Route 134 (Ventura Freeway), US 101",2KM NE of Pico Rivera,II,39,I,4.4,20.2,0,1,0,0
+51,"State Route 134 (Ventura Freeway), US 101",5km S of Chino Hills,II,37,I,5.4,37.8,0,1,0,0
+52,"State Route 134 (Ventura Freeway), US 101",11km SW of Valencia,II,26,I,4.9,20.5,0,1,0,0
+53,"State Route 134 (Ventura Freeway), US 101",4km N of Pacoima,II,23,I,3.6,12.2,0,1,0,0
+54,"State Route 134 (Ventura Freeway), US 101",10km ESE of Piru,II,23,I,5.2,44.9,0,1,0,0
+55,"State Route 134 (Ventura Freeway), US 101",1km WSW of East LA,II,18,I,4.8,14.3,0,1,0,0
+56,"State Route 134 (Ventura Freeway), US 101",2km SSW of Rosemead,II,16,I,5.9,20.4,0,1,0,0
+57,"Interstate 5 (Palmdale interchange, California 14), 1947","1971, San Fernendo",II,24,I,6.6,7.2,1,0,0,1
+58,"Interstate 5 (Palmdale interchange, California 14), 1947",4km SSW of Palmdale,II,22,I,4.4,26.7,0,1,0,0
+59,"Interstate 5 (Palmdale interchange, California 14), 1947",8km ESE of Piru,II,47,I,5.1,33.4,0,1,0,0
+60,"Interstate 5 (Palmdale interchange, California 14), 1947",8km N of Castaic,II,9,I,4.1,17.1,0,1,0,0
+61,"Interstate 5 (Palmdale interchange, California 14), 1947",9km ENE of Santa Clarita,II,30,I,4.0,10.8,0,1,0,0
+62,"Interstate 5 (Palmdale interchange, California 14), 1947",6km NNE of Chatsworth,II,47,I,5.1,4.9,0,1,0,0
+63,"Interstate 5 (Palmdale interchange, California 14), 1947",1km SSE of Pasadena,II,41,I,5.0,25.1,0,1,0,0
+64,"Interstate 5 (Palmdale interchange, California 14), 1947",7km NW of Westwood,II,67,I,4.2,17.0,0,1,0,0
+65,"Interstate 5 (Palmdale interchange, California 14), 1947",7km NE of Lake View,II,24,I,3.9,10.9,0,1,0,0
+66,"Interstate 5 (Palmdale interchange, California 14), 1947",2km NW of Sunland,II,24,I,4.0,11.3,0,1,0,0
+67,"Interstate 5 (Palmdale interchange, California 14), 1947",5km N of Pacoima,II,47,I,4.5,3.5,0,1,0,0
+68,"Interstate 5 (Foothill freeway interchange), 1947",1971 San Fernando,II,24,I,6.6,5.8,1,0,0,1
+69,"Interstate 5 (Foothill freeway interchange), 1947",12km N of Bradbury,II,44,I,4.0,16.2,0,1,0,0
+70,"Interstate 5 (Foothill freeway interchange), 1947",1km S of San Fernando,II,17,I,3.8,4.3,0,1,0,0
+71,"Interstate 5 (Foothill freeway interchange), 1947",10km SSW of Valencia,II,47,I,5.1,8.2,0,1,0,0
+72,"Interstate 5 (Foothill freeway interchange), 1947",8km ESE of Santa Clarita,II,24,I,4.4,5.8,0,1,0,0
+73,"Interstate 5 (Foothill freeway interchange), 1947",7km NNE of Simi Valley,II,47,I,5.6,11.3,0,1,0,0
+74,"Interstate 5 (Foothill freeway interchange), 1947",4km N of Simi Valley,II,47,I,4.1,14.4,0,1,0,0
+75,"Interstate 5 (Foothill freeway interchange), 1947",2km SSE of Fillmore,II,3,I,3.9,24.5,0,1,0,0
+76,"Interstate 5 (Foothill freeway interchange), 1947",6km SW of Valencia,II,47,I,3.9,9.7,0,1,0,0
+77,"Interstate 5 (Foothill freeway interchange), 1947",7km N of Pacoima,II,24,I,4.2,4.1,0,1,0,0
+78,"I-880 Cypress Street Viaduct, 1930",1989 Loma Prieta,II,32,I,6.9,58.9,1,0,0,1
+79,"I-880 Cypress Street Viaduct, 1930",Bay Area,II,77,I,4.2,11.2,0,1,0,0
+80,"I-880 Cypress Street Viaduct, 1930",North California,II,25,I,5.8,44.5,0,1,0,0
+81,"I-880 Cypress Street Viaduct, 1930",North California,II,58,I,5.3,52.6,0,1,0,0
+82,"I-880 Cypress Street Viaduct, 1930",Bay Area,II,50,I,5.8,26.1,0,1,0,0
+83,"I-880 Cypress Street Viaduct, 1930",Bay Area,II,50,I,5.4,32.7,0,1,0,0
+84,"I-880 Cypress Street Viaduct, 1930",3km NNE of Fremont,II,85,I,4.0,24.2,0,1,0,0
+85,"I-880 Cypress Street Viaduct, 1930",2km SE of Berkeley,II,88,I,4.4,3.0,0,1,0,0
+86,"I-880 Cypress Street Viaduct, 1930",South Napa,II,84,I,6.0,27.2,0,1,0,0
+87,"I-880 Cypress Street Viaduct, 1930",Bay Area,II,59,I,4.3,28.6,0,1,0,0
+88,"I-880 Cypress Street Viaduct, 1930",Northern California,II,54,I,6.2,48.1,0,1,0,0
+89,"Struve Slough Bridge, 1964",1989 Loma Prieta,II,25,I,6.9,10.4,1,0,0,1
+90,"Struve Slough Bridge, 1964",Central California,II,27,I,5.2,80.6,0,1,0,0
+91,"Struve Slough Bridge, 1964",3km WNW of Prunedale,II,5,I,4.3,9.4,0,1,0,0
+92,"Struve Slough Bridge, 1964",Northern California,II,22,I,5.7,23.2,0,1,0,0
+93,"Struve Slough Bridge, 1964",Central California,II,20,I,5.1,37.3,0,1,0,0
+94,"Struve Slough Bridge, 1964",2km ESE of Aromas,II,53,I,4.0,9.3,0,1,0,0
+95,"Struve Slough Bridge, 1964",Central California,II,36,I,4.4,24.0,0,1,0,0
+96,"Struve Slough Bridge, 1964",9km W of Chualar,II,9,I,4.2,25.7,0,1,0,0
+97,"Struve Slough Bridge, 1964",8km N of Cholame,II,2,I,5.5,112.9,0,1,0,0
+98,"Struve Slough Bridge, 1964",Northern California,II,10,I,3.7,14.0,0,1,0,0
+99,"Struve Slough Bridge, 1964",Central California,II,22,I,5.5,28.0,0,1,0,0
+100,"Miles Glacier Bridge, 1910",1964 Alaska,I,54,II,9.2,89.0,1,0,0,1
+101,"Miles Glacier Bridge, 1910",Southern Alaska,I,69,II,7.1,107.0,0,1,0,0
+102,"Miles Glacier Bridge, 1910",Southern Alaska,I,24,II,6.9,116.9,0,1,0,0
+103,"Miles Glacier Bridge, 1910",Southern Alaska,I,60,II,6.0,28.9,0,1,0,0
+104,"Miles Glacier Bridge, 1910",Southern Alaska,I,15,II,6.6,104.9,0,1,0,0
+105,"Miles Glacier Bridge, 1910",Kenai Peninsula,I,23,II,6.4,124.0,0,1,0,0
+106,"Miles Glacier Bridge, 1910",Southern Alaska,I,18,II,6.8,78.4,0,1,0,0
+107,"Miles Glacier Bridge, 1910",Southern Alaska,I,64,II,4.1,103.5,0,1,0,0
+108,"Miles Glacier Bridge, 1910",Southern Alaska,I,64,II,3.5,45.3,0,1,0,0
+109,"Miles Glacier Bridge, 1910",Kenai Peninsula,I,39,II,6.8,161.5,0,1,0,0
+110,"Miles Glacier Bridge, 1910",Southern Alaska,I,63,II,3.7,68.4,0,1,0,0
+111,"Miles Glacier Bridge, 1910",Southern Alaska,I,55,II,5.6,53.6,0,1,0,0
+112,"Miles Glacier Bridge, 1910",Southern Alaska,I,63,II,3.6,54.2,0,1,0,0
+113,"Miles Glacier Bridge, 1910",Southern Alaska,I,68,II,4.3,87.7,0,1,0,0
+114,"Miles Glacier Bridge, 1910",Southern Alaska,I,64,II,4.7,57.2,0,1,0,0
+115,"Nishinomiyako Bridge, 1994","1995, Kobe",I,1,IV,6.9,17.7,1,0,0,1
+116,"Nishinomiyako Bridge, 1994",Coast of Western Honshu,I,19,IV,4.4,18.3,0,1,0,0
+117,"Nishinomiyako Bridge, 1994",Coast of Western Honshu,I,14,IV,4.2,7.9,0,1,0,0
+118,"Nishinomiyako Bridge, 1994",Coast of Western Honshu,I,11,IV,3.9,7.9,0,1,0,0
+119,"Nishinomiyako Bridge, 1994",6km WNW of Sumoto,I,19,IV,5.8,37.7,0,1,0,0
+120,"Nishinomiyako Bridge, 1994",Coast of Western Honshu,I,3,IV,4.6,7.2,0,1,0,0
+121,"Nishinomiyako Bridge, 1994",Western Honshu,I,13,IV,5.1,51.3,0,1,0,0
+122,"Nishinomiyako Bridge, 1994",Western Honshu,I,6,IV,5.5,57.3,0,1,0,0
+123,"Nishinomiyako Bridge, 1994",6km S of Sumoto,I,19,IV,4.1,38.7,0,1,0,0
+124,"Nishinomiyako Bridge, 1994",2km E of Sumoto,I,20,IV,4.6,34.2,0,1,0,0
+125,"Nishinomiyako Bridge, 1994",Coast of Western Honshu,I,4,IV,3.6,16.2,0,1,0,0
+126,"Nishinomiyako Bridge, 1994",Coast of Western Honshu,I,9,IV,4.3,29.7,0,1,0,0
+127,"Nishinomiyako Bridge, 1994",Coast of Western Honshu,I,16,IV,4.9,31.9,0,1,0,0
+128,"Nishinomiyako Bridge, 1994",Coast of Western Honshu,I,11,IV,3.8,26.0,0,1,0,0
+129,"Nishinomiyako Bridge, 1994",9km NNE of Himeji,I,19,IV,4.2,37.0,0,1,0,0
+130,"Rokko Island Bridge, 1993","1995, Kobe",I,2,IV,6.9,13.9,1,0,1,0
+131,"Rokko Island Bridge, 1993",1km NW of Hirakata,I,25,IV,5.5,22.5,0,1,0,0
+132,"Rokko Island Bridge, 1993",3km ESE of Hirakata,I,21,IV,4.0,24.5,0,1,0,0
+133,"Rokko Island Bridge, 1993",2km NNW of Neyagawa,I,25,IV,4.6,20.1,0,1,0,0
+134,"Rokko Island Bridge, 1993",1km ENE of Neyagawa,I,25,IV,3.7,21.8,0,1,0,0
+135,"Rokko Island Bridge, 1993",Coast of Western Honshu,I,15,IV,4.2,12.5,0,1,0,0
+136,"Rokko Island Bridge, 1993",Coast of Western Honshu,I,13,IV,3.9,19.3,0,1,0,0
+137,"Rokko Island Bridge, 1993",Coast of Western Honshu,I,1,IV,4.9,23.2,0,1,0,0
+138,"Rokko Island Bridge, 1993",4km SSW of Kameoka,I,25,IV,3.8,24.5,0,1,0,0
+139,"Rokko Island Bridge, 1993",4km W of Kameoka,I,21,IV,4.4,25.5,0,1,0,0
+140,"Rokko Island Bridge, 1993",Western Honshu,I,10,IV,5.4,42.8,0,1,0,0
+141,"Rokko Island Bridge, 1993",Western Honshu,I,6,IV,5.1,47.0,0,1,0,0
+142,"Rokko Island Bridge, 1993",Western Honshu,I,7,IV,4.5,35.5,0,1,0,0
+143,"Rokko Island Bridge, 1993",Western Honshu,I,14,IV,4.0,40.2,0,1,0,0
+144,"Rokko Island Bridge, 1993",Coast of Western Honshu,I,10,IV,4.3,29.4,0,1,0,0
+145,"Mukogawa Bridge, 1963","1995, Kobe",I,32,I,6.9,20.5,1,0,1,0
+146,"Mukogawa Bridge, 1963",Coast of Western Honshu,I,22,I,4.2,11.1,0,1,0,0
+147,"Mukogawa Bridge, 1963",Coast of Western Honshu,I,22,I,3.7,10.1,0,1,0,0
+148,"Mukogawa Bridge, 1963",Coast of Western Honshu,I,24,I,4.7,32.5,0,1,0,0
+149,"Mukogawa Bridge, 1963",Coast of Western Honshu,I,26,I,3.4,38.9,0,1,0,0
+150,"Mukogawa Bridge, 1963",Coast of Western Honshu,I,26,I,4.0,19.1,0,1,0,0
+151,"Mukogawa Bridge, 1963",Coast of Western Honshu,I,31,I,3.6,14.4,0,1,0,0
+152,"Mukogawa Bridge, 1963",Coast of Western Honshu,I,15,I,4.8,17.1,0,1,0,0
+153,"Mukogawa Bridge, 1963",Coast of Western Honshu,I,21,I,4.8,18.6,0,1,0,0
+154,"Mukogawa Bridge, 1963",Western Honshu,I,24,I,4.9,23.8,0,1,0,0
+155,"Mukogawa Bridge, 1963",Western Honshu,I,31,I,4.2,29.4,0,1,0,0
+156,"Mukogawa Bridge, 1963",Western Honshu,I,21,I,4.1,31.2,0,1,0,0
+157,"Mukogawa Bridge, 1963",Western Honshu,I,21,I,4.6,40.2,0,1,0,0
+158,"Mukogawa Bridge, 1963",Western Honshu,I,22,I,4.8,40.3,0,1,0,0
+159,"Mukogawa Bridge, 1963",Western Honshu,I,26,I,3.6,32.6,0,1,0,0
+160,"Takatori, Hanshin Route 3, 1962","1995, Kobe",I,33,I,6.9,7.8,1,0,1,0
+161,"Takatori, Hanshin Route 3, 1962",Coast of Western Honshu,I,51,I,4.4,5.6,0,1,0,0
+162,"Takatori, Hanshin Route 3, 1962",Coast of Western Honshu,I,46,I,4.2,4.9,0,1,0,0
+163,"Takatori, Hanshin Route 3, 1962",Coast of Western Honshu,I,35,I,4.6,10.5,0,1,0,0
+164,"Takatori, Hanshin Route 3, 1962",6km WNW of Sumoto,I,51,I,5.8,25.9,0,1,0,0
+165,"Takatori, Hanshin Route 3, 1962",6km S of Sumoto,I,51,I,4.1,28.1,0,1,0,0
+166,"Takatori, Hanshin Route 3, 1962",2km E of Sumoto,I,52,I,4.6,23.4,0,1,0,0
+167,"Takatori, Hanshin Route 3, 1962",1km NW of Hirakata,I,56,I,5.5,31.3,0,1,0,0
+168,"Takatori, Hanshin Route 3, 1962",Coast of Western Honshu,I,46,I,4.2,20.7,0,1,0,0
+169,"Takatori, Hanshin Route 3, 1962",Coast of Western Honshu,I,27,I,4.0,16.2,0,1,0,0
+170,"Takatori, Hanshin Route 3, 1962",Coast of Western Honshu,I,16,I,4.2,26.6,0,1,0,0
+171,"Yuriage Bridge, 1962","2011, Tohoku",II,49,I,9.1,77.8,1,0,1,0
+172,"Yuriage Bridge, 1962","1978, Miyagi",II,16,I,7.7,58.7,1,0,1,0
+173,"Yuriage Bridge, 1962",East Coast of Honshu,II,43,I,6.5,64.2,0,1,0,0
+174,"Yuriage Bridge, 1962",Eastern Honshu,II,41,I,6.1,16.2,0,1,0,0
+175,"Yuriage Bridge, 1962",Eastern Honshu,II,36,I,5.1,26.4,0,1,0,0
+176,"Yuriage Bridge, 1962",Eastern Honshu,II,18,I,5.0,25.5,0,1,0,0
+177,"Yuriage Bridge, 1962",East Coast of Honshu,II,22,I,3.9,16.7,0,1,0,0
+178,"Yuriage Bridge, 1962",East Coast of Honshu,II,15,I,5.5,38.1,0,1,0,0
+179,"Yuriage Bridge, 1962",East Coast of Honshu,II,13,I,5.1,21.9,0,1,0,0
+180,"Yuriage Bridge, 1962",50km NE of Namie,II,51,I,6.0,41.9,0,1,0,0
+181,"Yuriage Bridge, 1962",East Coast of Honshu,II,24,I,6.0,71.2,0,1,0,0
+182,"Yuriage Bridge, 1962",East Coast of Honshu,II,35,I,5.5,54.3,0,1,0,0
+183,"Yuriage Bridge, 1962",East Coast of Honshu,II,19,I,6.4,93.7,0,1,0,0
+184,"Yuriage Bridge, 1962",East Coast of Honshu,II,14,I,6.0,70.6,0,1,0,0
+185,"Yuriage Bridge, 1962",East Coast of Honshu,II,1,I,6.5,60.2,0,1,0,0
+186,"Yuriage Bridge, 1962",East Coast of Honshu,II,25,I,4.8,19.4,0,1,0,0
+187,"Yuriage Bridge, 1962",East Coast of Honshu,II,16,I,4.8,13.2,0,1,0,0
+188,"Yuriage Bridge, 1962",Eastern Honshu,II,12,I,4.3,4.9,0,1,0,0
+189,"Sendai-Ohashi Bridge, 1965","1978, Miyagi",I,13,I,7.7,61.2,1,0,1,0
+190,"Sendai-Ohashi Bridge, 1965",Eastern Honshu,I,42,I,4.1,5.6,0,1,0,0
+191,"Sendai-Ohashi Bridge, 1965",Eastern Honshu,I,9,I,4.3,6.6,0,1,0,0
+192,"Sendai-Ohashi Bridge, 1965",Eastern Honshu,I,38,I,6.1,14.1,0,1,0,0
+193,"Sendai-Ohashi Bridge, 1965",Eastern Honshu,I,38,I,5.5,15.3,0,1,0,0
+194,"Sendai-Ohashi Bridge, 1965",Eastern Honshu,I,24,I,4.5,5.4,0,1,0,0
+195,"Sendai-Ohashi Bridge, 1965",Eastern Honshu,I,25,I,4.0,6.8,0,1,0,0
+196,"Sendai-Ohashi Bridge, 1965",Eastern Honshu,I,15,I,5.0,22.1,0,1,0,0
+197,"Sendai-Ohashi Bridge, 1965",Eastern Honshu,I,33,I,5.1,22.9,0,1,0,0
+198,"Sendai-Ohashi Bridge, 1965",East Coast of Honshu,I,10,I,5.1,25.8,0,1,0,0
+199,"Sendai-Ohashi Bridge, 1965",East Coast of Honshu,I,35,I,5.3,28.7,0,1,0,0
+200,"Sendai-Ohashi Bridge, 1965",Eastern Honshu,I,36,I,3.9,24.8,0,1,0,0
+201,"Sendai-Ohashi Bridge, 1965",East Coast of Honshu,I,28,I,5.8,31.1,0,1,0,0
+202,"Sendai-Ohashi Bridge, 1965",East Coast of Honshu,I,12,I,5.5,38.3,0,1,0,0
+203,"Tennoh Bridge, 1959","1978, Miyagi",I,19,I,7.7,45.2,1,0,1,0
+204,"Tennoh Bridge, 1959",East Coast of Honshu,I,18,I,5.5,11.0,0,1,0,0
+205,"Tennoh Bridge, 1959",East Coast of Honshu,I,15,I,4.4,10.5,0,1,0,0
+206,"Tennoh Bridge, 1959",East Coast of Honshu,I,3,I,6.1,17.6,0,1,0,0
+207,"Tennoh Bridge, 1959",East Coast of Honshu,I,15,I,4.5,20.0,0,1,0,0
+208,"Tennoh Bridge, 1959",East Coast of Honshu,I,14,I,4.5,13.0,0,1,0,0
+209,"Tennoh Bridge, 1959",East Coast of Honshu,I,17,I,6.0,58.6,0,1,0,0
+210,"Tennoh Bridge, 1959",East Coast of Honshu,I,16,I,5.1,39.0,0,1,0,0
+211,"Tennoh Bridge, 1959",Eastern Honshu,I,15,I,4.3,33.3,0,1,0,0
+212,"Tennoh Bridge, 1959",Eastern Honshu,I,15,I,5.3,60.3,0,1,0,0
+213,"Tennoh Bridge, 1959",East Coast of Honshu,I,4,I,6.5,62.3,0,1,0,0
+214,"Tennoh Bridge, 1959",East Coast of Honshu,I,16,I,5.0,36.2,0,1,0,0
+215,"Tennoh Bridge, 1959",East Coast of Honshu,I,17,I,4.8,40.3,0,1,0,0
+216,"Tennoh Bridge, 1959",East Coast of Honshu,I,9,I,6.3,46.5,0,1,0,0
+217,"Tennoh Bridge, 1959",East Coast of Honshu,I,13,I,5.7,46.5,0,1,0,0
+218,"Tennoh Bridge, 1959",East Coast of Honshu,I,15,I,4.7,41.2,0,1,0,0
+219,"Sendai-Tobu Interchange, 1994","2011, Tohoku",I,17,I,9.1,75.9,1,0,1,0
+220,"Sendai-Tobu Interchange, 1994",East Coast of Honshu,I,10,I,4.6,4.9,0,1,0,0
+221,"Sendai-Tobu Interchange, 1994",Eastern Honshu,I,9,I,6.1,10.5,0,1,0,0
+222,"Sendai-Tobu Interchange, 1994",East Coast of Honshu,I,9,I,5.5,11.7,0,1,0,0
+223,"Sendai-Tobu Interchange, 1994",East Coast of Honshu,I,13,I,4.2,12.8,0,1,0,0
+224,"Sendai-Tobu Interchange, 1994",East Coast of Honshu,I,9,I,5.3,15.2,0,1,0,0
+225,"Sendai-Tobu Interchange, 1994",East Coast of Honshu,I,9,I,5.1,17.5,0,1,0,0
+226,"Sendai-Tobu Interchange, 1994",East Coast of Honshu,I,8,I,4.5,26.8,0,1,0,0
+227,"Sendai-Tobu Interchange, 1994",Eastern Honshu,I,12,I,4.4,19.2,0,1,0,0
+228,"Sendai-Tobu Interchange, 1994",Eastern Honshu,I,4,I,5.1,25.8,0,1,0,0
+229,"Sendai-Tobu Interchange, 1994",Eastern Honshu,I,11,I,5.1,39.2,0,1,0,0
+230,"Sendai-Tobu Interchange, 1994",East Coast of Honshu,I,16,I,6.5,49.2,0,1,0,0
+231,"Sendai-Tobu Interchange, 1994",East Coast of Honshu,I,17,I,7.3,102.0,0,1,0,0
+232,"Sendai-Tobu Interchange, 1994",East Coast of Honshu,I,9,I,7.0,94.9,0,1,0,0
+233,"Sendai-Tobu Interchange, 1994",East Coast of Honshu,I,14,I,7.0,83.7,0,1,0,0
+234,"Abukuma Bridge (Route 6), 1920","1978, Miyagi",I,58,I,7.7,63.3,1,0,1,0
+235,"Abukuma Bridge (Route 6), 1920",Eastern Honshu,I,54,I,4.3,2.5,0,1,0,0
+236,"Abukuma Bridge (Route 6), 1920",East Coast of Honshu,I,55,I,5.1,20.9,0,1,0,0
+237,"Abukuma Bridge (Route 6), 1920",Eastern Honshu,I,36,I,5.9,14.1,0,1,0,0
+238,"Abukuma Bridge (Route 6), 1920",Eastern Honshu,I,54,I,5.3,26.4,0,1,0,0
+239,"Abukuma Bridge (Route 6), 1920",East Coast of Honshu,I,22,I,6.5,58.6,0,1,0,0
+240,"Abukuma Bridge (Route 6), 1920",East Coast of Honshu,I,7,I,7.0,80.1,0,1,0,0
+241,"Abukuma Bridge (Route 6), 1920",East Coast of Honshu,I,18,I,7.7,92.0,0,1,0,0
+242,"Abukuma Bridge (Route 6), 1920",East Coast of Honshu,I,16,I,7.2,76.9,0,1,0,0
+243,"Abukuma Bridge (Route 6), 1920",East Coast of Honshu,I,38,I,6.1,76.6,0,1,0,0
+244,"Abukuma Bridge (Route 6), 1920",East Coast of Honshu,I,33,I,6.2,84.0,0,1,0,0
+245,"Abukuma Bridge (Route 6), 1920",East Coast of Honshu,I,50,I,6.4,90.6,0,1,0,0
+246,"Abukuma Bridge (Route 6), 1920",East Coast of Honshu,I,17,I,6.6,56.3,0,1,0,0
+247,"Abukuma Bridge (Route 6), 1920",East Coast of Honshu,I,53,I,4.5,26.6,0,1,0,0
+248,"Abukuma Bridge (Route 6), 1920",East Coast of Honshu,I,54,I,4.4,45.7,0,1,0,0

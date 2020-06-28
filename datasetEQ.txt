@@ -1,0 +1,19 @@
+Material Type: 
+Type I: Steel 
+Type II: Concrete
+
+Bridge Type: 
+Type I: Beam/Girder Bridge 
+Type II: Truss Bridge 
+Type III: Cable/Suspension Bridge 
+Type IV: Arch Bridge 
+
+Damage Level: 
+Level I: No damage 
+Level II: Moderate/Severe damage 
+Level III: Partial/Overall collapse 
+Level IV: Total collapse
+
+Damaged or not? 
+1 = Damaged 
+0 = Not damaged
